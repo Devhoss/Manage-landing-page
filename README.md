@@ -1,2 +1,2 @@
 Manage landing page
-./screenshot.png
+(./screenshot.png)
